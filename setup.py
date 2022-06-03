@@ -1,10 +1,10 @@
 from setuptools import setup
-setup(name='esra',
+setup(name='parser',
 version='0.1',
-description='Testing installation of Package',
-url='#',
+description='blastp_xml_parser',
+url='https://github.com/esbusis/blastp_xml_parser.git',
 author='esbusis',
 author_email='esbusraisik@gmail.com',
 license='MIT',
-packages=['esra'],
+packages=['parser'],
 zip_safe=False)
